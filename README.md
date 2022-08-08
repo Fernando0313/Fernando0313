@@ -16,7 +16,8 @@
     <li>C#.net</li>
     <li>ASP.NET, ASP.NETCORE-MVC</li>
     <li>Git</li>
-    <li>JavaScript</li>
+    <li>JavaScript y Typescript</li>
+    <li>Node js</li>
   </ul>
   
   <img width="500px" align="right" src="https://aleduran.com/wp-content/uploads/lenguajes-programacion-top.gif">
